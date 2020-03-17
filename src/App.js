@@ -10,13 +10,15 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload, cause.
         </p>
+	<p> This is my React App
+	</p>
         <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          This is a feature branch
+          Learn React
         </a>
       </header>
     </div>
